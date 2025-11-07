@@ -25,6 +25,9 @@ BespokeSynth includes an embedded Python interpreter that allows you to write cu
 2. Select **script** from menu
 3. Script module appears with code editor
 
+<img width="623" height="327" alt="image" src="https://github.com/user-attachments/assets/6044188f-cfec-4e4c-8fcd-c19ddc69aee2" />
+
+
 ### Your First Script
 
 ```python
