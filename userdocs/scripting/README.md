@@ -43,6 +43,8 @@ def on_pulse():
 
 ## Script Module Basics
 
+<img width="375" height="276" alt="image" src="https://github.com/user-attachments/assets/7ba3ede8-c186-4604-8c87-2be1f512f276" />
+
 ### Code Editor
 
 **Controls**:
